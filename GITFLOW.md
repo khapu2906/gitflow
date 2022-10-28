@@ -1,7 +1,7 @@
 # Git Flow with rebasing
 
 
-## Overview
+## Overview 
 
 
 ![alt](https://itknowledgeexchange.techtarget.com/coffee-talk/files/2021/01/gitflow-hotfix-branch-diagram.jpg)
