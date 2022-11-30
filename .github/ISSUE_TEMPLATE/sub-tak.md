@@ -1,11 +1,13 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Sub-tak
+about: Suggest an idea from big task
 title: ''
-labels: ''
+labels: sub task
 assignees: ''
 
 ---
+
+**Is child of task** (url)
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
